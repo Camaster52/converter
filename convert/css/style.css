@@ -1,0 +1,368 @@
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.h1teg
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    color:#caae7b;
+}
+
+
+
+
+
+
+
+
+
+.form
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+
+
+.form__cont
+{
+    display: flex;
+    gap: 60px;
+}
+
+
+.form__lable
+{
+    width: 80px;
+}
+
+
+.form__input,.form__input1,.form__input2,.form__input3,.form__input4,.form__input5,.form__input6
+{
+    border: solid 1px rgb(189, 146, 233);
+    border-radius: 5px;
+}
+
+
+.form__input:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+
+
+
+.form__input1:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+.form__input2:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+
+
+
+.form__input3:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+
+
+
+.form__input4:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+
+.form__input5:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+.form__input6:focus
+{
+    font-weight: normal; /* Нормальный вес шрифта при фокусе */
+    outline: none; /* Убираем стандартную обводку при фокусе */
+    border-color: #dfbe82; /* Изменение цвета границы при фокусе */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
